@@ -1,0 +1,82 @@
+{
+  "uid" : "b9b444f89d0a7b40",
+  "name" : "Check addition",
+  "fullName" : "Simple expression tests.Check addition",
+  "historyId" : "21516c5eda6747df5abfb26423af102b",
+  "time" : {
+    "start" : 1685312802051,
+    "stop" : 1685312802052,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Simple expression tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Simple expression tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check addition"
+  }, {
+    "name" : "package",
+    "value" : "Simple expression tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "af60ad03a248c8ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685311821008,
+        "stop" : 1685311821009,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2ddd2b240629c36d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685311649616,
+        "stop" : 1685311649616,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "3399b4c764a16540",
+        "reportUrl" : "https://farizap.github.io/jest-allure/1//#testresult/3399b4c764a16540",
+        "status" : "passed",
+        "time" : {
+          "start" : 1685312274865,
+          "stop" : 1685312274865,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "b9b444f89d0a7b40.json",
+  "parameterValues" : [ ]
+}

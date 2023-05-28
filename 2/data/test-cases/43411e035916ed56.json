@@ -1,0 +1,44 @@
+{
+  "uid" : "43411e035916ed56",
+  "name" : "Check multiplication",
+  "fullName" : "Simple expression tests.Check multiplication",
+  "historyId" : "32c3d3da40a3dda7a95767b5b2de4397",
+  "time" : {
+    "start" : 1685311649616,
+    "stop" : 1685311649616,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Simple expression tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Simple expression tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check multiplication"
+  }, {
+    "name" : "package",
+    "value" : "Simple expression tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "43411e035916ed56.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://farizap.github.io/jest-allure",
+  "buildOrder" : 2,
+  "buildName" : "GitHub Actions Run #5106710491",
+  "buildUrl" : "https://github.com/farizap/jest-allure/actions/runs/5106710491",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://farizap.github.io/jest-allure/2/"
+} ]
