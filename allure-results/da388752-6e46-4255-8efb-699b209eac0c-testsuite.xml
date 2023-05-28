@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1685311649615' stop='1685311649617'>
+    <name>Simple expression tests</name>
+    <title>Simple expression tests</title>
+    <test-cases>
+        <test-case start='1685311649615' status='passed' stop='1685311649616'>
+            <name>Check literal value</name>
+            <title>Check literal value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1685311649616' status='passed' stop='1685311649616'>
+            <name>Check addition</name>
+            <title>Check addition</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1685311649616' status='passed' stop='1685311649616'>
+            <name>Check subtraction</name>
+            <title>Check subtraction</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1685311649616' status='passed' stop='1685311649616'>
+            <name>Check multiplication</name>
+            <title>Check multiplication</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1685311649616' status='passed' stop='1685311649617'>
+            <name>Check division</name>
+            <title>Check division</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
