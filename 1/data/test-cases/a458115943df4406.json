@@ -1,0 +1,62 @@
+{
+  "uid" : "a458115943df4406",
+  "name" : "Check subtraction",
+  "fullName" : "Simple expression tests.Check subtraction",
+  "historyId" : "9d7111ab2e868880dd9aa8ea08580c7f",
+  "time" : {
+    "start" : 1685312274865,
+    "stop" : 1685312274865,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Simple expression tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Simple expression tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check subtraction"
+  }, {
+    "name" : "package",
+    "value" : "Simple expression tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "81731362c47f9724",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685311821009,
+        "stop" : 1685311821009,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "dbb369d77aba42e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685311649616,
+        "stop" : 1685311649616,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a458115943df4406.json",
+  "parameterValues" : [ ]
+}

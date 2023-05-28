@@ -1,0 +1,44 @@
+{
+  "uid" : "28b37c2359752a68",
+  "name" : "Check literal value",
+  "fullName" : "Simple expression tests.Check literal value",
+  "historyId" : "eaf2d4aa54d2a039823675246876277c",
+  "time" : {
+    "start" : 1685311649615,
+    "stop" : 1685311649616,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Simple expression tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Simple expression tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check literal value"
+  }, {
+    "name" : "package",
+    "value" : "Simple expression tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28b37c2359752a68.json",
+  "parameterValues" : [ ]
+}

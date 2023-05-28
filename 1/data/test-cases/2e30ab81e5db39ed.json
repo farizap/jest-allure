@@ -1,0 +1,62 @@
+{
+  "uid" : "2e30ab81e5db39ed",
+  "name" : "Check division",
+  "fullName" : "Simple expression tests.Check division",
+  "historyId" : "2c8bff9b3a19c2d71b0a7e537f593022",
+  "time" : {
+    "start" : 1685312274866,
+    "stop" : 1685312274866,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Simple expression tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Simple expression tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check division"
+  }, {
+    "name" : "package",
+    "value" : "Simple expression tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2dc44507150a83c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685311821009,
+        "stop" : 1685311821009,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "50bc3f834cf8c3c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685311649616,
+        "stop" : 1685311649617,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2e30ab81e5db39ed.json",
+  "parameterValues" : [ ]
+}

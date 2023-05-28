@@ -1,0 +1,62 @@
+{
+  "uid" : "3399b4c764a16540",
+  "name" : "Check addition",
+  "fullName" : "Simple expression tests.Check addition",
+  "historyId" : "21516c5eda6747df5abfb26423af102b",
+  "time" : {
+    "start" : 1685312274865,
+    "stop" : 1685312274865,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Simple expression tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Simple expression tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check addition"
+  }, {
+    "name" : "package",
+    "value" : "Simple expression tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "38b9c274063c6cb0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685311821008,
+        "stop" : 1685311821009,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "63c626023f5fadee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685311649616,
+        "stop" : 1685311649616,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3399b4c764a16540.json",
+  "parameterValues" : [ ]
+}

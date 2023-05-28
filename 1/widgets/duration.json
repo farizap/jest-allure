@@ -1,0 +1,51 @@
+[ {
+  "uid" : "3399b4c764a16540",
+  "name" : "Check addition",
+  "time" : {
+    "start" : 1685312274865,
+    "stop" : 1685312274865,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d00d04c3605671fc",
+  "name" : "Check multiplication",
+  "time" : {
+    "start" : 1685312274865,
+    "stop" : 1685312274866,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a458115943df4406",
+  "name" : "Check subtraction",
+  "time" : {
+    "start" : 1685312274865,
+    "stop" : 1685312274865,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8de84aa87a793934",
+  "name" : "Check literal value",
+  "time" : {
+    "start" : 1685312274863,
+    "stop" : 1685312274865,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e30ab81e5db39ed",
+  "name" : "Check division",
+  "time" : {
+    "start" : 1685312274866,
+    "stop" : 1685312274866,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

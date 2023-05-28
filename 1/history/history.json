@@ -1,0 +1,102 @@
+{
+  "32c3d3da40a3dda7a95767b5b2de4397" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d00d04c3605671fc",
+      "reportUrl" : "https://farizap.github.io/jest-allure/1//#testresult/d00d04c3605671fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685312274865,
+        "stop" : 1685312274866,
+        "duration" : 1
+      }
+    } ]
+  },
+  "eaf2d4aa54d2a039823675246876277c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8de84aa87a793934",
+      "reportUrl" : "https://farizap.github.io/jest-allure/1//#testresult/8de84aa87a793934",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685312274863,
+        "stop" : 1685312274865,
+        "duration" : 2
+      }
+    } ]
+  },
+  "21516c5eda6747df5abfb26423af102b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3399b4c764a16540",
+      "reportUrl" : "https://farizap.github.io/jest-allure/1//#testresult/3399b4c764a16540",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685312274865,
+        "stop" : 1685312274865,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2c8bff9b3a19c2d71b0a7e537f593022" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e30ab81e5db39ed",
+      "reportUrl" : "https://farizap.github.io/jest-allure/1//#testresult/2e30ab81e5db39ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685312274866,
+        "stop" : 1685312274866,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9d7111ab2e868880dd9aa8ea08580c7f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a458115943df4406",
+      "reportUrl" : "https://farizap.github.io/jest-allure/1//#testresult/a458115943df4406",
+      "status" : "passed",
+      "time" : {
+        "start" : 1685312274865,
+        "stop" : 1685312274865,
+        "duration" : 0
+      }
+    } ]
+  }
+}
